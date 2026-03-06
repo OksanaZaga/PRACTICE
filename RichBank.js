@@ -5,7 +5,7 @@ const accounts = [
 
 function getAccountById (id)
 {
-	for (const account of accounts)
+	for (const account of accounts)//
 	{
 		if (account.id == id)
 		{
@@ -71,6 +71,9 @@ function transferMoney (fromAccountId, toAccountId, amount)
 
 	toAccount.balance += amount;
 }
+console.log("Hello!")
+const X=10
+X=20
 
 /*
 Hints:
