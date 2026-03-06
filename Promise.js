@@ -41,9 +41,9 @@
     // Run the demos
     // -------------------------
 
-    getRandomJoke();
-    getTenJokes();
-    getProgrammingJokes();
-    getFourRandomJokes();
-    logFiveJokes();
+   // getRandomJoke();
+    //getTenJokes();
+   // getProgrammingJokes();
+   // getFourRandomJokes();
+   //logFiveJokes();
     deckOfCardsDemo();
